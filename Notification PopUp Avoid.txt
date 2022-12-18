@@ -1,0 +1,6 @@
+Notification PopUp
+
+-Avoid=
+	create bowseroptions class
+	Chromeoptions option = new Chromeoptions();
+	option.addargument("__disable Notification");
